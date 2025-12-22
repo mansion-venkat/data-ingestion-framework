@@ -1,2 +1,3 @@
-# data-ingestion-framework
-Metadata driven data ingestion &amp; validation framework
+# Data Ingestion Framework
+
+Metadata-driven data ingestion and validation framework using PySpark and Databricks.
